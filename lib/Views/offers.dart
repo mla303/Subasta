@@ -1,10 +1,5 @@
-
 import 'package:flutter/material.dart';
-import 'package:page_transition/page_transition.dart';
-import 'package:subasta/Views/login.dart';
-import 'package:subasta/widgets/Lists.dart';
 import 'package:subasta/widgets/appBar.dart';
-import 'package:subasta/widgets/cards.dart';
 import 'package:subasta/widgets/colors.dart';
 import 'package:subasta/widgets/offersCardDesign.dart';
 
